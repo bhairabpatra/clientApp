@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+// http://localhost:8080/api/v1/getExploreCourse (get)
+// http://localhost:8080/api/v1/exploreCourse (post)
